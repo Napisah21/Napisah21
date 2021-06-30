@@ -1,4 +1,21 @@
-### Hi there 👋
+
+
+pkg update && pkg upgrade
+
+$ pkg install curl git python2
+
+$ pkg install git
+
+$ pkg install python2
+
+$ pip2 install mechanize
+
+$ pip2 install requests
+
+
+
+
+### Hi there 👋 subscribe dulu lah bapabanah
 
 <!--
 **Napisah21/Napisah21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
